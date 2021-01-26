@@ -1,0 +1,11 @@
+[Unit]
+Description=Grove Sensor Monitoring Service
+After=network.target
+
+[Service]
+User=mark
+ExecStart=/usr/bin/python3.7 /home/mark/grove_monitoring/grove_monitoring/app.py
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
