@@ -4,6 +4,8 @@ Python Server that reads Grove Room Sensors and exports the values for Prometheu
 
 The sensors are read every 5 seconds
 
+![Screenshot 2021-01-26 at 23 06 18](https://user-images.githubusercontent.com/4998112/105860204-ac479080-6030-11eb-8a4d-980263df431f.jpg)
+
 
 ### Required Hardware
 
