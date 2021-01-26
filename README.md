@@ -1,6 +1,6 @@
 ## Grove Monitoring
 
-Python Server that reads Grove Room Sensors and exports the values for Prometheus scraping
+Python3 server that reads Grove Room Sensors and exports the values for Prometheus scraping
 
 The sensors are read every 5 seconds
 
