@@ -9,15 +9,15 @@ The sensors are read every 5 seconds
 
 - Raspberry PI. Tested on Raspberry Pi 4 Model B
 
-- Grove Base Hat
+- [Grove Base Hat](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/)
 
-- [Grove Sunlight Sensor]()
+- [Grove Sunlight Sensor](https://wiki.seeedstudio.com/Grove-Sunlight_Sensor/)
 
-- Grove AHT20 Temperature & Humidity Sensor
+- [Grove AHT20 Temperature & Humidity Sensor](https://wiki.seeedstudio.com/Grove-AHT20-I2C-Industrial-Grade-Temperature&Humidity-Sensor/)
 
-- Grove Laser PM2.5 Dust Sensor 
+- [Grove Laser PM2.5 Dust Sensor](https://wiki.seeedstudio.com/Grove-Laser_PM2.5_Sensor-HM3301/)
 
-- Grove Air Quality Sensor v1.3
+- [Grove Air Quality Sensor v1.3](https://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3/)
 
 
 ### Installation
