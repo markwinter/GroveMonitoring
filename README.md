@@ -34,6 +34,8 @@ You should have the following software installed already.
 
 - Edit the `User` field in `systemd/grovemonitoring.service` to your linux account
 
+- Edit the path to `app.py` in `ExecStart`
+
 - Install the systemd service to /etc/systemd/system/grovemonitoring.service
 
 
