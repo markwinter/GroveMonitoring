@@ -22,6 +22,14 @@ The sensors are read every 5 seconds
 - [Grove Air Quality Sensor v1.3](https://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3/)
 
 
+### Required Software
+
+You should have the following software installed already.
+
+- Grafana
+
+- Prometheus
+
 ### Installation
 
 - Edit the `User` field in `systemd/grovemonitoring.service` to your linux account
@@ -38,3 +46,6 @@ $ sudo systemctl enable grovemonitoring  # Enable on boot
 ```
 
 - Check the exported metrics at `localhost:8000`
+
+- Import the GroveMonitoring dashboard into your Grafana instance `13779`
+https://grafana.com/grafana/dashboards/13779
